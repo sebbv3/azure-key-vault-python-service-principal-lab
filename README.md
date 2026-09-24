@@ -68,6 +68,8 @@ This demonstrated the difference between:
 **Authorization** – determining what the application is allowed to access.
 
 
+**Screenshots**
+
 
 <img width="1006" height="206" alt="Screenshot 2026-09-24 181740" src="https://github.com/user-attachments/assets/2f975c44-c352-4856-bbfb-65342307a682" />
 <img width="1452" height="555" alt="Screenshot 2026-09-24 181617" src="https://github.com/user-attachments/assets/b115690f-1e7b-4f18-8a56-efd973db6415" />

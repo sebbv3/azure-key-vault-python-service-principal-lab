@@ -1,0 +1,1 @@
+# azure-key-vault-python-service-principal-lab

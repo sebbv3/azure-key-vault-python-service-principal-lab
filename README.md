@@ -74,3 +74,17 @@ The application used the Azure Python SDK, including:
 ```bash
 azure-identity
 azure-keyvault-secrets
+
+<img width="1006" height="206" alt="Screenshot 2026-09-24 181740" src="https://github.com/user-attachments/assets/2f975c44-c352-4856-bbfb-65342307a682" />
+<img width="1452" height="555" alt="Screenshot 2026-09-24 181617" src="https://github.com/user-attachments/assets/b115690f-1e7b-4f18-8a56-efd973db6415" />
+<img width="1532" height="812" alt="Screenshot 2026-09-24 181324" src="https://github.com/user-attachments/assets/68a23df2-5b06-4624-a6b3-3c39d24ae2a5" />
+<img width="1535" height="816" alt="Screenshot 2026-09-24 175848" src="https://github.com/user-attachments/assets/ba6371d3-b4a1-4274-870d-0d85e5d9586f" />
+<img width="1535" height="812" alt="Screenshot 2026-09-24 174842" src="https://github.com/user-attachments/assets/fd32a617-d726-4e95-b018-7b9a9bb27525" />
+<img width="1535" height="816" alt="Screenshot 2026-09-24 174343" src="https://github.com/user-attachments/assets/448e84ea-746b-4724-a751-eb6616db50d8" />
+<img width="1535" height="812" alt="Screenshot 2026-09-24 174127" src="https://github.com/user-attachments/assets/234e42f8-4bdf-487d-a1c3-933cd5eb06cc" />
+<img width="1535" height="812" alt="Screenshot 2026-09-24 173658" src="https://github.com/user-attachments/assets/d8221695-6a2e-4906-86fa-2cadc9b45c5d" />
+<img width="1535" height="812" alt="Screenshot 2026-09-24 173525" src="https://github.com/user-attachments/assets/ce661285-3976-4a1a-8f5a-ad8b93d7eaed" />
+<img width="1535" height="815" alt="Screenshot 2026-09-24 173456" src="https://github.com/user-attachments/assets/1f43d408-0cf0-4b05-af95-b67c847d8e0c" />
+<img width="1532" height="816" alt="Screenshot 2026-09-24 173240" src="https://github.com/user-attachments/assets/f59e0a2a-4b07-4b62-946f-4c2901369c85" />
+<img width="1535" height="816" alt="Screenshot 2026-09-24 172941" src="https://github.com/user-attachments/assets/dfe3de48-f0e0-4e66-91ea-31936670126c" />
+
